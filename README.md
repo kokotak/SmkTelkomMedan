@@ -1,2 +1,0 @@
-# SmkTelkomMedan
-Created with CodeSandbox
